@@ -1,2 +1,2 @@
 # Formularios
-Projeto Básico em Delphi onde é trabalho a criação e manipulação de Formulários, juntamente com o TMenu.
+Projeto Básico em Delphi onde é trabalhado a criação e manipulação de Formulários, juntamente com o TMenu.
