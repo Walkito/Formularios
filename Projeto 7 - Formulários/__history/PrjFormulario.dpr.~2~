@@ -1,0 +1,14 @@
+program PrjFormulario;
+
+uses
+  Vcl.Forms,
+  Formularios in 'Formularios.pas' {frm_menu};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(Tfrm_menu, frm_menu);
+  Application.Run;
+end.

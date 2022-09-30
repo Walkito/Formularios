@@ -1,0 +1,47 @@
+object frm_menu: Tfrm_menu
+  Left = 0
+  Top = 0
+  Caption = 'Menu'
+  ClientHeight = 441
+  ClientWidth = 624
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  Menu = MainMenu1
+  Position = poScreenCenter
+  TextHeight = 15
+  object MainMenu1: TMainMenu
+    Left = 232
+    Top = 56
+    object Arquivo1: TMenuItem
+      Caption = 'Arquivo'
+      object Salvar1: TMenuItem
+        Caption = 'Salvar'
+      end
+      object Salvar2: TMenuItem
+        Caption = 'Fechar'
+      end
+      object Abrir1: TMenuItem
+        Caption = 'Abrir'
+      end
+    end
+    object Arquivo2: TMenuItem
+      Caption = 'Editar'
+    end
+    object Janelas1: TMenuItem
+      Caption = 'Janelas'
+      object exto1: TMenuItem
+        Caption = 'Texto'
+      end
+      object exto2: TMenuItem
+        Caption = 'Imagem'
+      end
+    end
+    object Janelas2: TMenuItem
+      Caption = 'Sair'
+    end
+  end
+end

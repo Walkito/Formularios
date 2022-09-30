@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/09/30 09:13:30.097,=F:\Projetos Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 09:13:49.008,F:\Projetos Delphi\Projeto 7 - Formulários\Formularios.pas=F:\Projetos Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 09:13:49.008,F:\Projetos Delphi\Projeto 7 - Formulários\Formularios.dfm=F:\Projetos Delphi\Unit1.dfm</Transaction>
+    <Transaction>2022/09/30 09:13:51.922,F:\Projetos Delphi\Projeto 7 - Formulários\PrjFormulario.dproj=F:\Projetos Delphi\Project1.dproj</Transaction>
+    <Transaction>2022/09/30 09:17:54.252,=F:\Projetos Delphi\Projeto 7 - Formulários\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 09:18:13.472,F:\Projetos Delphi\Projeto 7 - Formulários\U_texto.pas=F:\Projetos Delphi\Projeto 7 - Formulários\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 09:18:13.472,F:\Projetos Delphi\Projeto 7 - Formulários\U_texto.dfm=F:\Projetos Delphi\Projeto 7 - Formulários\Unit1.dfm</Transaction>
+    <Transaction>2022/09/30 09:19:30.334,=F:\Projetos Delphi\Projeto 7 - Formulários\Unit1.pas</Transaction>
+    <Transaction>2022/09/30 09:19:35.745,F:\Projetos Delphi\Projeto 7 - Formulários\U_img.dfm=F:\Projetos Delphi\Projeto 7 - Formulários\Unit1.dfm</Transaction>
+    <Transaction>2022/09/30 09:19:35.745,F:\Projetos Delphi\Projeto 7 - Formulários\U_img.pas=F:\Projetos Delphi\Projeto 7 - Formulários\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

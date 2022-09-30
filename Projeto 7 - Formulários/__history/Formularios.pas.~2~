@@ -1,0 +1,34 @@
+unit Formularios;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus;
+
+type
+  Tfrm_menu = class(TForm)
+    MainMenu1: TMainMenu;
+    Arquivo1: TMenuItem;
+    Arquivo2: TMenuItem;
+    Janelas1: TMenuItem;
+    Janelas2: TMenuItem;
+    Salvar1: TMenuItem;
+    Salvar2: TMenuItem;
+    Abrir1: TMenuItem;
+    exto1: TMenuItem;
+    exto2: TMenuItem;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frm_menu: Tfrm_menu;
+
+implementation
+
+{$R *.dfm}
+
+end.

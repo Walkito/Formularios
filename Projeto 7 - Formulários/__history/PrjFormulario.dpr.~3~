@@ -1,0 +1,18 @@
+program PrjFormulario;
+
+uses
+  Vcl.Forms,
+  Formularios in 'Formularios.pas' {frm_menu},
+  U_texto in 'U_texto.pas' {frm_texto},
+  U_img in 'U_img.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(Tfrm_menu, frm_menu);
+  Application.CreateForm(Tfrm_texto, frm_texto);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
